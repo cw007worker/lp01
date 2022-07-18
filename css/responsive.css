@@ -1,0 +1,458 @@
+@media only screen and (max-width: 1300px) {
+  .mama_qualification_section .img_section .left_img {
+    position: absolute;
+    width: 320px;
+    z-index: 1;
+    top: -170px;
+    right: -20px;
+  }
+  .mama_qualification_section .img_section .right_img {
+    position: absolute;
+    width: 420px;
+    z-index: 3;
+    bottom: 0px;
+    left: -20px;
+  }
+  .mama_test_section .contents .contents_inner .text_wrap .img_wrap {
+    position: absolute;
+    right: -35px;
+    top: 0px;
+  }
+  .mama_test_section .contents .contents_inner .text1_wrap .img_wrap {
+    position: absolute;
+    right: -35px;
+    top: -60px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .banner_section .banner_top .right_title .first_title {
+    font-size: 60px;
+  }
+  .banner_section .banner_bottom .item .text {
+    width: 150px;
+    height: 150px;
+    font-size: 18px;
+  }
+  .banner_section .banner_bottom .item .top_img {
+    position: absolute;
+    top: -70px;
+    right: 25px;
+  }
+  .anxiety_section .title_section .small_title {
+    font-size: 24px;
+  }
+  .anxiety_section .title_section .large_title {
+    font-size: 36px;
+  }
+  .large_text {
+    font-size: 36px!important;
+  }
+  .medium_text {
+    font-size: 24px!important;
+  }
+  .small_text {
+    font-size: 18px!important;
+  }
+  .mama_qualification_section .img_section .center_img {
+    width: 500px;
+  }
+  .mama_qualification_section .img_section .right_img {
+    width: 300px;
+    left: 20px;
+  }
+  .mama_qualification_section .img_section .left_img {
+    width: 240px;
+    right: 20px;
+  }
+  .mama_qualification_section .img_section {
+    height: 500px;
+  }
+  .reason1_wrap .left_img_wrap {
+    width: 180px;
+  }
+  .reason1_wrap .right_img_wrap {
+    width: 200px;
+    right: 20px;
+  }
+  .reason2_wrap .left_img_wrap {
+    width: 200px;
+    left: 20px;
+  }
+  .charm_item_section .top_title {
+    width: 600px;
+  }
+  .charm_item_section .top_title .text {
+    margin-top: 10px;
+  }
+  .charm1_section .right_img {
+    width: 180px;
+    right: 20px;
+  }
+  .charm2_section .left_img {
+    width: 150px;
+    left: 20px;
+  }
+  .charm3_section .right_img {
+    width: 120px;
+    right: 20px;
+  }
+  .mama_test_section .contents .contents_inner .text_wrap .img_wrap {
+    right: -20px;
+    width: 100px;
+  }
+  .mama_test_section .contents .contents_inner {
+    width: 700px;
+  }
+  .mama_test_section .contents .contents_inner .text_wrap.bottom_img {
+    width: 200px;
+    margin: 0 auto;
+    padding-top: 00px;
+  }
+  .blue_bottom_section .right_img {
+    width: 200px;
+  }
+  .white_bg_third_section .seventh_wrap .item_wrap .item .right_section .contents_wrap .sub_item .left_text {
+    height: 34px;
+  }
+  .q_a_section .contents_wrap {
+    padding-left: 20px;
+  }
+  .q_a_section .contents_wrap .right_img {
+    z-index: 1;
+    width: 180px;
+  }
+  .privilege_contents {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .white_bg_third_section .second_wrap {
+    max-width: 600px;
+  }
+  .seventh_wrap .course .top_title {
+    width: 640px;
+    padding-top: 10px;
+  }
+  .white_bg_third_section .seventh_wrap .main_contents .time_money_section .item .left_text {
+    height: 30px;
+    margin-right: 20px;
+  }
+  .seventh_wrap .course .main_contents {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .seventh_wrap .course .detail_contents .bottom.img_wrap {
+    width: 180px;
+    right: 10px;
+  }
+  .seventh_wrap .course .detail_contents {
+    padding: 20px;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .hoku_story_sub_item .item .item_text {
+    width: 90%;
+  }
+  .seventh_wrap .course .bottom_text .contents .item .circle {
+    width: 14px;
+    height: 14px;
+    margin-top: 3px;
+  }
+  .seventh_wrap .course .bottom_text .contents .item .right_text {
+    width: 90%;
+  }
+  .seventh_wrap .course .bottom_text .contents .item {
+    align-items: flex-start;
+  }
+  .seventh_wrap .course .detail_contents {
+    padding-bottom: 30px;
+  }
+  .seventh_wrap .course.serious_course {
+    padding-bottom: 100px;
+  }
+  .seventh_wrap .course .detail_contents .bottom.img_wrap {
+    width: 100px;
+    bottom: -70px;
+  }
+  .seventh_wrap .course .detail_contents .detail_img {
+    padding: 20px 0px;
+  }
+  .seventh_wrap .course .main_contents .course_name {
+    padding-top: 20px;
+  }
+  .white_bg_third_section .sixth_wrap {
+    padding-bottom: 0px;
+  }
+  .white_bg_third_section .seventh_wrap .main_contents .time_money_section .item .left_text {
+    height: 20px;
+  }
+  .seventh_wrap .course .top_title {
+    width: 300px;
+    padding-top: 10px;
+    height: 44px;
+  }
+  .banner_section {
+    height: 400px;
+  }
+  .banner_section .banner_top .right_title .first_title {
+    font-size: 24px;
+  }
+  .banner_section .banner_top .left_img {
+    width: 80px;
+  }
+  .banner_section .banner_top .right_title .second_title {
+    font-size: 18px;
+  }
+  .banner_section .banner_top .right_title {
+    padding-left: 20px;
+  }
+  .banner_section .banner_top {
+    padding-left: 20px;
+    padding-top: 10px;
+  }
+  .banner_section .banner_bottom .item .top_img {
+    width: 50px;
+    top: -35px;
+    left: 10px;
+  }
+  .banner_section .banner_bottom .item .text {
+    width: 70px;
+    height: 70px;
+    font-size: 10px;
+  }
+  .large_text {
+    font-size: 16px!important;
+  }
+  .medium_text {
+    font-size: 14px!important;
+  }
+  .small_text {
+    font-size: 12px!important;
+  }
+  .anxiety_section .image_section {
+    width: 100px;
+  }
+  .anxiety_section {
+    height: 90px;
+  }
+  .anxiety_section .title_section {
+    text-align: left;
+    left: 120px;
+  }
+  .anxiety_section .title_section .img_wrap {
+    width: 120px;
+  }
+  .intro_mama_lecture_section .large_title .pink_underline {
+    box-shadow: inset 0px -10px 0px 0px #ec7484;
+  }
+  .intro_mama_lecture_section .large_title {
+    color: #534741;
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+    padding-bottom: 20px;
+  }
+  .hoiku_story_section {
+    padding: 20px 0px;
+  }
+  .hoiku_story_section .second_title {
+    padding: 20px 0px;
+  }
+  .hoku_story_sub_item .item {
+    padding: 20px;
+  }
+  .hoku_story_sub_item .item .circle_image {
+    width: 30px;
+    height: 30px;
+  }
+  .mama_qualification_section {
+    padding-top: 30px;
+  }
+  .mama_qualification_section .img_section .center_img {
+    width: 300px;
+  }
+  .mama_qualification_section .img_section .right_img {
+    width: 100px;
+    left: 20px;
+    bottom: 10px;
+  }
+  .mama_qualification_section .img_section .left_img {
+    width: 80px;
+    right: 20px;
+    top: 10px;
+  }
+  .mama_qualification_section .img_section {
+    height: 300px;
+  }
+  .mama_qualification_section .main_title .img_wrap {
+    width: 16px;
+  }
+  .pink_dot_section {
+    max-width: 60px;
+  }
+  .pink_dot_section .circle {
+    width: 10px;
+    height: 10px;
+  }
+  .white_dot_section {
+    max-width: 60px;
+  }
+  .white_dot_section .circle {
+    width: 10px;
+    height: 10px;
+  }
+  .reason1_wrap .left_img_wrap {
+    width: 80px;
+  }
+  .reason1_wrap .right_img_wrap {
+    width: 70px;
+    right: 20px;
+  }
+  .reason2_wrap .left_img_wrap {
+    width: 80px;
+    left: 20px;
+  }
+  .reason2_wrap .right_img_wrap {
+    width: 70px;
+    right: 10px;
+  }
+  .reason2_wrap {
+    margin-bottom: 40px;
+  }
+  .three_charms_section {
+    padding-bottom: 70px;
+  }
+  .charm_item_section .top_title {
+    width: 300px;
+    height: 60px;
+    margin-top: -30px;
+  }
+  .charm_item_section .top_title .top_title_inner .number {
+    font-size: 120px;
+    top: -20px;
+    left: 10px;
+  }
+  .charm_item_section>.text {
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+  .charm_item_section {
+    margin-bottom: 60px;
+  }
+  .charm1_section .right_img {
+    width: 70px;
+    right: 00px;
+  }
+  .charm2_section .left_img {
+    width: 80px;
+    left: 0px;
+  }
+  .charm3_section .right_img {
+    width: 70px;
+    right: 0px;
+    bottom: 120px;
+  }
+  .mama_test_section .contents {
+    margin-top: 20px;
+  }
+  .mama_test_section .contents .contents_inner {
+    width: 320px;
+    top: 20px;
+  }
+  .mama_test_section .contents .contents_inner .text_wrap .text {
+    padding: 4px 0px;
+    font-size: 11px !important;
+  }
+  .mama_test_section .contents .contents_inner .text1_wrap .img_wrap {
+    top: -20px;
+  }
+  .mama_test_section .contents .contents_inner .text_wrap .img_wrap {
+    width: 60px;
+    right: -20px;
+  }
+  .mama_test_section .contents .contents_inner .text_wrap .title {
+    color: #534741;
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+    box-shadow: inset 0px -10px 0px 0px #ec7484;
+  }
+  .mama_test_section .contents .contents_inner .text_wrap.bottom_img {
+    width: 100px;
+    margin: 0 auto;
+    padding-top: 00px;
+  }
+  .blue_bottom_section .right_img {
+    width: 80px;
+  }
+  .white_bg_third_section .first_wrap .text .img_wrap {
+    width: 80px;
+  }
+  .white_bg_third_section .third_wrap .text .img_wrap {
+    width: 80px;
+  }
+  .lsmall_text {
+    font-size: 13px;
+  }
+  .white_bg_third_section .forth_wrap .pink_mark_title {
+    font-size: 14px;
+  }
+  .white_bg_third_section .forth_wrap .pink_mark_title .img_wrap {
+    width: 16px;
+  }
+  .white_bg_third_section .forth_wrap .top_3_img {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .white_bg_third_section .seventh_wrap .item_wrap .item .left_stick {
+    margin-right: 20px;
+  }
+  .white_bg_third_section .seventh_wrap .item_wrap .item .right_section .contents_wrap .sub_item .left_text {
+    height: 21px;
+  }
+  .white_bg_third_section .seventh_wrap .item_wrap .item .left_stick {
+    height: 200px;
+  }
+  .white_bg_third_section .seventh_wrap .item_wrap .item.forth_item .right_img {
+    width: 120px;
+  }
+  .white_bg_third_section .seventh_wrap {
+    padding-bottom: 20px;
+  }
+  .q_a_section .contents_wrap .right_img {
+    width: 70px;
+  }
+  .q_a_section .contents_wrap .item .img_wrap {
+    width: 40px;
+    margin-right: 20px;
+  }
+  .privilege_contents .item01 .mark_img {
+    width: 40px;
+    left: -10px;
+    top: -10px;
+  }
+  .privilege_contents .item02 .mark_img {
+    width: 40px;
+    right: -10px;
+    top: -10px;
+  }
+  .privilege_contents .item .top_section .top_title .img_wrap {
+    width: 40px;
+    padding-right: 10px;
+  }
+  .privilege_contents .item .top_section {
+    height: 160px;
+  }
+  .detail_section {
+    padding-left: 40px;
+  }
+  .company_list .item {
+    padding: 10px 0px;
+  }
+  .company_list {
+    padding: 30px 0px 30px 0px;
+  }
+  .copy_right_section {
+    font-size: 12px;
+  }
+  ._2p3a {
+    width: 300px!important;
+  }
+}
